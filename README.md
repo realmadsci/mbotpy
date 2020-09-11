@@ -6,3 +6,14 @@ library, but updated to Python 3 and stripping out all the
 multi-threading and multi-processing.
 
 It currently only supports the mbot over bluetooth (pyserial) mode.
+
+## Installation
+
+- Clone this repository
+
+```git clone https://github.com/realmadsci/mbotpy.git```
+
+- Use `pip` to install
+
+```pip install .```
+
